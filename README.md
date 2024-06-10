@@ -1,1 +1,1 @@
-# vps02lop
+# Verificação Prática Somativa 02 - LOP
